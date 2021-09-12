@@ -37,3 +37,4 @@ monitors:
     url: 'http://v2.winkx.ga'
     method: GET
     expectStatus: 200
+    linkable: false # allows the title to be a link, default=true
